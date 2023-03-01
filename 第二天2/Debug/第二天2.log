@@ -1,0 +1,6 @@
+﻿  第二天.c
+C:\Users\Administrator\Desktop\文件\c语言学习\第二天2\第二天.c(13,7): warning C4013: “scanf”未定义；假设外部返回 int
+C:\Users\Administrator\Desktop\文件\c语言学习\第二天2\第二天.c(19,8): warning C4013: “printf”未定义；假设外部返回 int
+第二天.obj : error LNK2019: 无法解析的外部符号 _scanf，函数 _main 中引用了该符号
+第二天.obj : error LNK2019: 无法解析的外部符号 _printf，函数 _main 中引用了该符号
+C:\Users\Administrator\Desktop\文件\c语言学习\第二天2\Debug\第二天2.exe : fatal error LNK1120: 2 个无法解析的外部命令
